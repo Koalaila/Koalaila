@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TwentyFive**
 
-- Skills **Intermediate: C, C++, Java, C#, Python | Beginner: Rust, Elixir, Dart, Go, JS/TS**
+- Skills: **Intermediate: C, C++, Java, C#, Python | Beginner: Rust, Elixir, Dart, Go, JS/TS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
